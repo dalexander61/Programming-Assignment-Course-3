@@ -22,6 +22,7 @@ The script run_analysis.R performs the following function to create two tidy dat
  - replaces the column names from the features.txt file
  - replaces the activity number codes with the activity names from the activity_labels.txt file
  - prunes the columns to only include columns related to mean and standard deviation
+ - clean up column names
 This ends up with a tidy data set.
 
 In addition, further analysis is done and written out in a tidy.txt file.
