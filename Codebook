@@ -1,0 +1,20 @@
+This codebook identifies the source data and summarizes the resulting data sets as a result of running run_analysis.R on the source data.
+
+The source data is the Human Activity Recognition Using Smartphones Data Set from the UCI Machine Learning Repository.   
+It can be found here:
+https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
+
+The identifier data is:
+  - subject - represents the 30 individuals involved in the study
+  - activities - represents 6 activities performed by the subjects
+  
+Activity Labels
+  - Walking
+  - Walking Upstairs
+  - Walking Downstairs
+  - Sitting
+  - Standing
+  - Laying
+  
+Measurements
+  - 
