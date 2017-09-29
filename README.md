@@ -17,6 +17,7 @@ Here is a link to the data set:
 https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
 
 The script run_analysis.R performs the following function to create two tidy data sets:
+ - downloads the data sets
  - loads and merges the training and test data sets into one data set.  Each data set consists of 3 files that are all merged.
  - replaces the column names from the features.txt file
  - replaces the activity number codes with the activity names from the activity_labels.txt file
